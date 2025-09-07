@@ -1,4 +1,5 @@
 This project is Public Domain.
+
 Author:  rmg68x@gmail.com
 
 It is a simple class that allows the drawing of 2 data series sharing the same X-axis (eg timestamp), by using a DrawingArea from GUIZERO.
