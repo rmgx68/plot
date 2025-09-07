@@ -4,7 +4,7 @@
     Based on guizero's Drawing widget, this is a hack to have simple
     line charts, as mathplotlib and guizero do not integrate.
 
-    Author: rmgx68@gmail.com
+    Author: rmgx68
     Public Domain
 
     All constructor parameters are mandatory
