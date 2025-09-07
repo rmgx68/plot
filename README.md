@@ -5,7 +5,7 @@ Author:  rmg68x (at) gmail.com
 It is a simple class that allows the drawing of 2 data series sharing the same X-axis (eg timestamp), by using a DrawingArea from GUIZERO.
 These data series are supposed to be have the same scale.
 
-The need of this arises from the lack of integration of multilibplot for guizero.
+The need of this arises from the lack of integration of matplotlib with guizero.
 
 It has 2 major ways of working:
 a) Set the 2 data series at once. The drawing area will show the complete data series, and rescale its axii to show the complete data.
