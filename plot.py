@@ -7,6 +7,11 @@
     Author: rmgx68
     Public Domain
 
+    THIS CODE HAS ABSOLUTELY *NO GUARANTEE*.
+    Do whaterver you want with it.
+    Its only a pet-project I enjoyed doing to learn a bit about guizero and python.
+    And yeah, I know it can be optimized, I just don't care.
+
     All constructor parameters are mandatory
     Plot( master, width, height, x_axis_label, y_axis_label, xmin, xmax, ymin,
           ymax, xscale, yscale, data_labels )
